@@ -1,0 +1,66 @@
+{
+  "transactions": [
+    {
+      "value": 50,
+      "from": "Alice",
+      "to": "Charlie"
+    },
+    {
+      "value": 50,
+      "from": "Charlie",
+      "to": "Bob"
+    },
+    {
+      "value": 100,
+      "from": "Alice",
+      "to": "Bob"
+    },
+    {
+      "value": 50,
+      "from": "Bob",
+      "to": "Alice"
+    },
+    {
+      "value": 50,
+      "from": "Bob",
+      "to": "Alice"
+    }
+  ],
+  "hiddenState": {
+    "type": "Buffer",
+    "data": [
+      49,
+      156,
+      197,
+      64,
+      206,
+      148,
+      38,
+      232,
+      15,
+      63,
+      62,
+      238,
+      64,
+      139,
+      56,
+      24,
+      110,
+      114,
+      77,
+      93,
+      206,
+      35,
+      80,
+      50,
+      225,
+      7,
+      125,
+      216,
+      11,
+      184,
+      60,
+      193
+    ]
+  }
+}
